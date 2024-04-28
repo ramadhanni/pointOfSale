@@ -1,0 +1,11 @@
+* {
+    margin-top: 10px;
+    height: auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Raleway;
+}
+
+.container {
+    background-color: rgb(204, 202, 202);
+}

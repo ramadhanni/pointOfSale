@@ -11,7 +11,7 @@ This project is a Point of Sale (POS) system constructed with the Laravel framew
 ### Installation and Usage
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/Haen0/point_of_sale.git
+   git clone https://github.com/ramadhanni/pointOfSale
    ```
 2. Navigate to the project directory.
    ```bash
@@ -54,7 +54,7 @@ If you want to use existing data
    ```
    storage/app/public/img/menu/
    ```
-2. Either dump the data in the menus.sql file or delete the menus table in the database and import the menus.sql file in this folder into the database.
+2. Either dump the data in the testmagang.sql file or delete the menus table in the database and import the testmagang.sql file in this folder into the database.
 
 ### Additional Notes
 
@@ -62,9 +62,8 @@ If you want to use existing data
 - Create a database in MySQL and update the `.env` file accordingly.
 - Bootstrap CSS is utilized for frontend styling, providing a flexible customization option to suit your needs.
 - Feel free to explore and modify the project according to your requirements.
-- internet required to run cdn tailwind 
 
-For more information on Laravel, Tailwind CSS, and other technologies used in this project, refer to their respective documentation:
+For more information on Laravel, and other technologies used in this project, refer to their respective documentation:
 
 - [Laravel Documentation](https://laravel.com/docs)
 - [Bootstrap 5 Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
